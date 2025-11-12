@@ -1,28 +1,17 @@
 # sales-profits-dashboard-using-excel
-## kip's for dashboard
 
-total sales
-total profit
-profit by years column chat
-sales by subcategory
-count customer name by year(remove duplicates) donor chat
-sales by states
-top 5 customers profit
-sales by month
-add dolor symbol for  amount
-
-in dashboard
-title is sales and profit dashboard
-and one icon for your 
 # Abstract
 
-    The Sales Performance Dashboard is designed to provide a clear and interactive view of sales and profit trends. It helps management analyze overall performance, customer distribution, and regional growth. The dashboard focuses on identifying top-performing products, customers, and states while tracking profit and sales trends over time.
+    The Sales Performance Dashboard is designed to provide a clear and interactive view of sales and profit trends.
+It helps management analyze overall performance, customer distribution, and regional growth. The dashboard focuses on 
+identifying top-performing products, customers, and states while tracking profit and sales trends over time.
 
 ## Process
 
 # Data Collection:
 
-Sales data containing order date, customer details, product subcategories, state, sales, and profit values was collected and cleaned.
+    Sales data containing order date, customer details, product subcategories, state, sales,
+and profit values was collected and cleaned.
 
 # Data Preparation:
 
@@ -58,4 +47,7 @@ Sales by Month	Line chart displaying monthly sales performance.
 
 ## Conclusion
 
-    The Sales Dashboard provides an insightful overview of business performance across multiple dimensions. It highlights key trends in revenue and profitability, identifies high-value customers and top-selling regions, and enables management to make data-driven strategic decisions. Regular updates to this dashboard can help track progress and improve business planning.
+    The Sales Dashboard provides an insightful overview of business performance across multiple dimensions.
+It highlights key trends in revenue and profitability, identifies high-value customers and top-selling regions, 
+and enables management to make data-driven strategic decisions. Regular updates to this dashboard
+can help track progress and improve business planning.
