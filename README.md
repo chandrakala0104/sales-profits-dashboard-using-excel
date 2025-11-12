@@ -13,7 +13,8 @@ identifying top-performing products, customers, and states while tracking profit
     Sales data containing order date, customer details, product subcategories, state, sales,
 and profit values was collected and cleaned.
 
-<a href=" ">raw data</a>
+<a href="https://github.com/chandrakala0104/sales-profits-dashboard-using-excel/blob/main/Sales%20and%20Profit%20Dashboard%20Data.xlsx ">
+raw data</a>
 
 ## Data Preparation:
 
