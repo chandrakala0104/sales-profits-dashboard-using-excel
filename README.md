@@ -93,6 +93,8 @@ Each chart automatically updated when the Pivot Table was refreshed.
 
 <a href="https://github.com/chandrakala0104/sales-profits-dashboard-using-excel/blob/main/dashboard.xlsx">Dashboard</a>
 
+<a href="https://github.com/chandrakala0104/sales-profits-dashboard-using-excel/blob/main/Screenshot(dashboard).png"> dashboard image</a>
+
 # Conclusion
 
     The Sales Dashboard provides an insightful overview of business performance across multiple dimensions.
