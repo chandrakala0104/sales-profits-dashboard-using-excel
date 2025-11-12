@@ -70,7 +70,8 @@ Insert → PivotTable → From Table/Range in Excel.
 
 The PivotTable was placed in a new worksheet for easy organization.
 
-<a href=" ">pivot table</a>
+<a href="https://github.com/chandrakala0104/sales-profits-dashboard-using-excel/blob/main/pivote%20tables.xlsx">
+pivot table</a>
 
 # dashboard
 
