@@ -91,7 +91,7 @@ Pivot Charts such as Column, Bar, Line, and Donut Charts were linked to Pivot Ta
 
 Each chart automatically updated when the Pivot Table was refreshed.
 
-<a href=" ">Dashboard</a>
+<a href="https://github.com/chandrakala0104/sales-profits-dashboard-using-excel/blob/main/dashboard.xlsx">Dashboard</a>
 
 # Conclusion
 
